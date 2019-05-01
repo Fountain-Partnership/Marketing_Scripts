@@ -9,7 +9,7 @@ scripts could improve ROI and achieve efficiencies, feel free to contact us.
 
 ---
 
-[Fountain Partnership] (https://www.fountainpartnership.co.uk/contact/)  
+[Fountain Partnership](https://www.fountainpartnership.co.uk/contact/)  
 38-42 BETHEL STREET  
 NORWICH  
 NR2 1NR  
