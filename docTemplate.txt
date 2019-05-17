@@ -1,0 +1,15 @@
+/*************************************************
+ * SCRIPT_NAME - vX.x.x
+ * By: Fountain (@FountainTeam)
+ * Contributors:
+ * Ephraim, Daisy, Marco
+ *
+ * Usage:
+ *  var userInput1 = '';
+ *
+ *  dothis(userInput1);
+ *
+ * Description:
+ *  A script that does something. Check out the
+ *  awesome details here: /bit.ly/shortUrl/
+ *************************************************/
